@@ -25,7 +25,7 @@
 - [Task 7](#task-7)
     - [Align Center Logo And Navbar](#align-center-logo-and-navbar)
     - [Outcome Of Task 7](#outcome-of-task-7)
-
+- [Author](#author)
 ## Overview
 
 This is a task project given by ALX introduction to software programme. The task is centered on learning about flex box and how to use it in web development.
@@ -210,3 +210,6 @@ These materials helped me get a good understanding of the flexbox layout especia
 * [Flexbox Cheatsheet]()
 * [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN]()
 * [FLEX: A simple visual cheatsheet for flexbox]()
+
+## Author
+Like what you read? You can also connect with me on Twitter - [@obika_viola](https://www.twitter.com/obika_viola)
