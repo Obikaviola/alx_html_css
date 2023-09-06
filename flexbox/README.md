@@ -121,7 +121,7 @@ For this task I was asked to:
 ### Outcome of Task 4
 
 Here is the preview of the completed task
-![Preview of the completed task 4]()
+![Preview of the completed task 4](/images/task-4-outcome.png)
 
 ## Task 5
 
@@ -192,12 +192,16 @@ For this task I was asked to:
 
 ### Outcome Of Task 7
 
-Here is a preview of the outcome:
-**Before Completion**
-![Before completion]() 
-**After completion**
-![After completion]()
+Here is a snippet of the code:
 
+```CSS
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+```
+ 
 ## What I learned
 I learned about flex properties like `align-items`, `flex-direction`, `justify-content`, `flex-wrap` etc. and how to apply the properties to html. 
 
