@@ -1,6 +1,6 @@
-#ALX FLEX BOX PROJECT
+# ALX FLEX BOX PROJECT
 
-##Table Of Content
+## Table Of Content
 - [Overview](#overview)
 - [Task 0](#task-0)
     -[Add Display Flex](#add-display-flex)
