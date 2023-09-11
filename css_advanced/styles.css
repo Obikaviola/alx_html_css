@@ -1,0 +1,15 @@
+/* Variables */
+
+:root{
+    --color-primary: ;
+    --color-black: ;
+    --color-white: ;
+
+    --primary-text-color: var(--color-white);
+    --secondary-text-color: var(--color-black);
+
+}
+
+header, main>section{
+    background-image: image();
+}
