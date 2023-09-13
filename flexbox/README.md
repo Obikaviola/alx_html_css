@@ -208,12 +208,11 @@ I learned about flex properties like `align-items`, `flex-direction`, `justify-c
 ## Resources
 
 These materials helped me get a good understanding of the flexbox layout especially the games.
-* [A Complete Guide to Flexbox | CSS-Tricks]()
-* [Flexbox Froggy - A game for learning CSS flexbox]()
-* [Flexbox Defense]()
-* [Flexbox Cheatsheet]()
-* [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN]()
-* [FLEX: A simple visual cheatsheet for flexbox]()
+* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+* [CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
 
 ## Author
 Like what you read? You can also connect with me on Twitter - [@obika_viola](https://www.twitter.com/obika_viola)
