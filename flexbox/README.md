@@ -25,6 +25,8 @@
 - [Task 7](#task-7)
     - [Align Center Logo And Navbar](#align-center-logo-and-navbar)
     - [Outcome Of Task 7](#outcome-of-task-7)
+- [What I learned](#what-i-learned)
+- [Resources](#resources)
 - [Author](#author)
 ## Overview
 
@@ -32,7 +34,7 @@ This is a task project given by ALX introduction to software programme. The task
 
 The flex box layout is used in css to give the html structure a good layout structure. Adding beauty and aesthetics.
 
-ALX provided the [HTML starter files]() and [CSS starter files]().
+ALX provided the HTML starter files and CSS starter files.
 
 The images used in this project were used as a placeholder on instruction of ALX.
 
@@ -105,7 +107,7 @@ For this task I was asked to:
 ### Outcome Of Task 3
 
 Here is the preview of the outcome.
-![Preview of the completed task 3](/images/task-3.png)
+![Preview of the completed task 3](/flexbox/images/task-3.png)
 
 ## Task 4
 
@@ -121,7 +123,7 @@ For this task I was asked to:
 ### Outcome of Task 4
 
 Here is the preview of the completed task
-![Preview of the completed task 4](/images/task-4-outcome.png)
+![Preview of the completed task 4](/flexbox/images/task-4-outcome.png)
 
 ## Task 5
 
