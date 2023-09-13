@@ -32,7 +32,7 @@
 
 ## Overview
 
-This is a project from the ALX Introduction To Software Engineering Programme. For this project, I converted the [figma image]() to a web page using HTML and CSS.
+This is a project from the ALX Introduction To Software Engineering Programme. For this project, I converted the [figma image](https://www.figma.com/files/recents-and-sharing?fuid=1092011096667991903) to a web page using HTML and CSS.
 
 ## Task 0 
 
@@ -145,12 +145,12 @@ This is a full page of the completed project
 
 The materials that were helpful in this project:
 
-* [Learn to code HTML & CSS]()
-* [Inline Styles in HTML]()
-* [Specifics on CSS Specificity]()
-* [CSS SpeciFishity]()
-* [CSS]()
-* [MDN]()
+* [Learn to code HTML & CSS](https://learn.shayhowe.com/html-css/)
+* [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
+* [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [CSS SpeciFishity](http://www.standardista.com/wp-content/uploads/2012/01/specificity3.pdf)
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [MDN](https://developer.mozilla.org/en-US/)
 ## Author
 
 Written by [@obika_viola]()
